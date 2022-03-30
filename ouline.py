@@ -6,7 +6,10 @@ def getJobList():
     url = 'https://www.indeed.com/jobs?q={role}&l={location}'
     # Complete the missing part of this fuction here 
 
-
+#save data in csv file
+def saveDataInCSV():
+    #Complete the missing part of this fuction here
+    print("Saving data to csv")
 
 #main function
 def main():
